@@ -33,7 +33,8 @@ Simple_Calculator
 │   │   │   ├── java/com/example/simple_calculator  
 │   │   │   │   └── MainActivity.kt  
 │   │   │   ├── res  
-│   │   │   └── AndroidManifest.xml  
+|   |   |   |__Layout
+│   │   │   └── Activity_main.xml  
 │   │   └── ui.theme  
 │  
 └── build.gradle  
